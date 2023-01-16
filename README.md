@@ -2,4 +2,5 @@
 
 ## Sample Request and Response:
 
-![image](https://user-images.githubusercontent.com/62060147/212710964-fbafe005-a17e-456b-a25b-dfd83d7f746e.png)
+![image](https://user-images.githubusercontent.com/62060147/212711416-93b2e711-e150-4b1c-83c5-18f6c6330dc4.png)
+
