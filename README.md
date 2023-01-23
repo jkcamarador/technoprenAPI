@@ -14,5 +14,4 @@ Using the test data, the Random Forest Classifier model got an accuracy of 100%,
 
 ### Link: https://dobahak5.pythonanywhere.com/predict
 
-Get the symptoms value on the symptoms array in main.py
-Use the format on the sample request image above.
+Get the symptoms value on the symptoms array in main.py. Use the format on the sample request image above.
